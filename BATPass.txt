@@ -1,5 +1,5 @@
 @echo off
-REM BATPass - Build 120922 - http://camoy.sdf.org/
+REM BATPass - Build 120922
 REM Please keep this notice if you add this code to your scripts. Thank you.
 REM Replace all aterisks (*) with the number of characters you want you password to be.
 REM Replace all ampersands (&) with the desired password.
