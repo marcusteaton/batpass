@@ -1,1 +1,1 @@
-This repo has been moved to http://bitbucket.org/marcuseaton/batpass
+This repo has been moved to https://bitbucket.org/marcuseaton/batpass
